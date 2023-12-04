@@ -1,2 +1,2 @@
 # FiltradoImagenes
-Proyecto Final creado en el curso de Matemática Computacional
+Final Project created in the Computational Mathematics course
